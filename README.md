@@ -1,2 +1,2 @@
 # hello-world
-Hello World Project
+Hello World Project! Some test repository!
